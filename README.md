@@ -3,10 +3,10 @@ A hybrid movie recommender system which incorporates the strengths of collaborat
 # Clone the repository
 > git clone https://github.com/yashas-096/Hybrid-Movie-Recommendation-System.git
 # Create a virtual environment and activate
->pip install virtualenv
+>pip install virtualenv  
 >virtualenv venv
 # Activate the virtual environment
->cd venv
+>cd venv  
 >Scripts\activate
 # Install requirements in environment
 >pip install -r requirements.txt
