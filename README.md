@@ -1,17 +1,17 @@
 # Hybrid-Movie-Recommendation-System
 A hybrid movie recommender system which incorporates the strengths of collaborative filtering and content-based-filtering, with sentiment analysis using VADER.
 # Clone the repository
-https://github.com/yashas-096/Hybrid-Movie-Recommendation-System.git
+> git clone https://github.com/yashas-096/Hybrid-Movie-Recommendation-System.git
 # Create a virtual environment and activate
-pip install virtualenv
-virtualenv venv
+>pip install virtualenv
+>virtualenv venv
 # Activate the virtual environment
-cd venv
+>cd venv
 >Scripts\activate
 # Install requirements in environment
-pip install -r requirements.txt
+>pip install -r requirements.txt
 # To run the streamlit interface
-streamlit run app.py
+>streamlit run app.py
 
 # Output
 
