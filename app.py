@@ -3,7 +3,7 @@ import json
 import requests
 import csv
 import os
-tmdb_ids1 = []
+tmdb_ids1 = [] 
 error_ids1 = []
 
 
